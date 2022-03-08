@@ -58,6 +58,9 @@
    - Go - 哈希算法的应用
 
 5. [Search - 搜索](basic/05-search.md)
+   - Go - 广度优先搜索
+	- Go - 深度优先搜索
+	- Go - 搜索算法的应用
 
 6. [String Matching - 字符串匹配](basic/06-string-matching.md)
 
